@@ -1,5 +1,7 @@
 # 💫 About Me:
-Après avoir passé près d'une décennie au service de l'éducation à l'enfance dans les CPE au Québec, j'ai décidé de faire un saut de géant vers le monde numérique. J'ai échangé mes crayons de couleur contre un clavier et ma passion pour les jeux de construction s'est transformée en une passion pour la construction de sites web.<br><br>Désormais développeur web full-stack, formé en AEC conception et programmation de sites Web, mes compétences en HTML, CSS, JavaScript, React.js, PHP, Laravel et bien d'autres, me permettent de relever tous les défis du développement web.<br><br>Mon expérience au sein de Desjardins m'a permis de consolider mes compétences en méthodologie Agile Scrum, en assurant une collaboration fluide et efficace avec l'équipe pour livrer les tickets du backlog de manière optimale.<br><br>J'aime collaborer avec d'autres développeurs afin d'atteindre les objectifs de projet. N'hésitez pas à me contacter pour discuter de projets passionnants ou d'opportunités professionnelles.
+Après avoir passé près d'une décennie au service de l'éducation à l'enfance dans les CPE au Québec, j'ai décidé de faire un saut de géant vers le monde numérique. J'ai échangé mes crayons de couleur contre un clavier et ma passion pour les jeux de construction s'est transformée en une passion pour la construction de sites web.
+<br><br>
+En tant que développeur web full-stack avec une formation en AEC en conception et programmation de sites Web, j'apprécie la collaboration avec d'autres développeurs. N'hésitez pas à me contacter si vous souhaitez discuter de projets passionnants ou d'opportunités professionnelles.
 
 
 
