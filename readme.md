@@ -1,7 +1,10 @@
 # 💫 About Me:
-Après avoir passé près d'une décennie au service de l'éducation à l'enfance dans les CPE au Québec, j'ai décidé de faire un saut de géant vers le monde numérique. J'ai échangé mes crayons de couleur contre un clavier et ma passion pour les jeux de construction s'est transformée en une passion pour la construction de sites web.
+Après avoir consacré près d'une décennie à l'éducation à l'enfance au Québec, j'ai fait un saut de géant dans le monde numérique. J'ai troqué mes crayons de couleur contre un clavier, et ma passion pour les jeux de construction s'est transformé en une passion pour la création d'application web.
 <br><br>
-En tant que développeur web full-stack avec une formation en AEC en conception et programmation de sites Web, j'apprécie la collaboration avec d'autres développeurs. N'hésitez pas à me contacter si vous souhaitez discuter de projets passionnants ou d'opportunités professionnelles.
+Je prends plaisir à collaborer avec d'autres professionnels du développement, alors n'hésitez pas à me contacter si vous souhaitez discuter de projets passionnants ou d'opportunités professionnelles!
+<br><br>
+- Langages et technologies: JavaScript, React, TypeScript, Css-in-js, PHP, Laravel, GraphQL, Node.js, MySQL, MongoDB.
+- CMS: AEM (Adobe Experience Manager), WordPress.
 
 
 
