@@ -18,8 +18,6 @@ Je prends plaisir à collaborer avec d'autres professionnels du développement, 
     <img width="12"/>
     <img src="https://www.fullstackpython.com/img/logos/react.png" height="40" alt="React" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-    <img width="12"/>
     <img src="https://www.gravitee.io/hubfs/graphql.png" height="40" alt="GraphQL" />
     <img width="12"/>
     <img src="https://saviynt.com/hubfs/aws.png" height="40" alt="AWS" />
