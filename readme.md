@@ -3,9 +3,9 @@
 J'aime créer des outils qui sont conviviaux, simples, et agréables.  
 J'ai été étudiant au College de Maisonneuve où j'ai passé 1 an et demi à apprendre les fondamentaux du développement web front-end et back-end.
 
-Je travaille actuellement chez **Groupe COSIOR**, où je suis chargé de concevoir et développer des composants React réutilisables tout en améliorant les fonctionnalités d'applications web existantes.
+Je travaille actuellement chez **Groupe COSIOR**, où je suis chargé de développer des solutions React, optimiser les fonctionnalités et améliorer l’expérience utilisateur d'applications web existantes.
 
-Je prends plaisir à collaborer avec d'autres professionnels du développement, alors n'hésitez pas à me contacter si vous souhaitez discuter de projets !
+Je prends plaisir à collaborer avec d'autres professionnels du développement, alors n'hésitez pas à me contacter si vous souhaitez discuter de projets!
 
 ---
 
