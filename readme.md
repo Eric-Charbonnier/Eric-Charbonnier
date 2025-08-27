@@ -1,11 +1,11 @@
 ## Bonjour ! Je suis Eric, développeur basé à Montréal.
 
 J'aime créer des outils qui sont conviviaux, simples, et agréables.  
-J’ai été étudiant au Collège de Maisonneuve où j’ai perfectionné mes compétences en développement web front-end et back-end.
+J’ai perfectionné mes compétences en développement web front-end et back-end au Collège de Maisonneuve.
 
-Je travaille actuellement chez **Groupe COSIOR**, où je suis chargé de développer des solutions React, optimiser les fonctionnalités et améliorer l’expérience utilisateur d'applications web existantes.
+Aujourd’hui, au sein du  **Groupe COSIOR**, je me consacre à la conception et au développement de solutions React.
 
-Je prends plaisir à collaborer avec d'autres professionnels du développement, alors n'hésitez pas à me contacter si vous souhaitez discuter de projets!
+- Langages et technologies: JavaScript, TypeScript, React, Node.js, AWS Amplify
 
 ---
 
