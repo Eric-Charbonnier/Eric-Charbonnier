@@ -1,7 +1,7 @@
 ## Bonjour ! Je suis Eric, développeur basé à Montréal.
 
 J'aime créer des outils qui sont conviviaux, simples, et agréables.  
-J'ai été étudiant au College de Maisonneuve où j'ai passé 1 an et demi à apprendre les fondamentaux du développement web front-end et back-end.
+J’ai été étudiant au Collège de Maisonneuve où j’ai perfectionné mes compétences en développement web front-end et back-end.
 
 Je travaille actuellement chez **Groupe COSIOR**, où je suis chargé de développer des solutions React, optimiser les fonctionnalités et améliorer l’expérience utilisateur d'applications web existantes.
 
